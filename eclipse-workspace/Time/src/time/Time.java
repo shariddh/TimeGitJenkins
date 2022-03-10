@@ -2,6 +2,8 @@ package time;
 
 import java.util.Scanner;
 
+
+
 /**
  * @modfied by Liz Dancy
  * Used to show how to catch multiple Exceptions and then as a base class
