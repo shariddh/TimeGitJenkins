@@ -1,7 +1,5 @@
 package time;
-
 import java.util.Scanner;
-
 
 /**
  * @modfied by Liz Dancy
