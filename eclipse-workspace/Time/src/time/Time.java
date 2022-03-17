@@ -11,8 +11,6 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
-
-
 /**
  * Taken from Wendi Jollymore :http://www-acad.sheridanc.on.ca/~jollymor/prog24178/oop2.html
  * @modfied by Liz Dancy
@@ -24,7 +22,7 @@ public class Time
 {
 	public static void main(String[] args) 
 	{
-		int totalSeconds = getTotalSeconds("Github 10:10:10");
+		int totalSeconds = getTotalSeconds("10:10:10");
 		System.out.println("Total Seconds = " + totalSeconds);
 //		try
 //		{
